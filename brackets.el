@@ -1,9 +1,9 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;
 ;;;  brackets.el -- 
-;;;	author: nakai <nakai@mcl.chem.tohoku.ac.jp>
+;;;	author: nakai <bigswim.atom@gail.com>
 ;;;	create day  : Sun Nov 17 17:48:56 2002
-;;;     last updated: Sun Nov 17 18:25:29 2002
+;;;     last updated: Mon Jul 10 09:49:40 2017
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (defun insert-braces (arg)
